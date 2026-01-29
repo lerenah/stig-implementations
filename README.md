@@ -13,6 +13,7 @@ The remediations in this repository implement those requirements through safe, a
 | STIG ID | Severity                | Description | Status | Link |
 |---------|-------------------------|-------------|--------|------|
 | WN11-CC-000315           | 🔴 CAT I  | Always install with elevated privileges must be disabled. | <img width="220" alt="Passed_WN11-CC-000315" src="https://github.com/user-attachments/assets/a4860f10-c543-472f-92ab-8f89e48f7138" /> | [View Remediation](https://github.com/lerenah/stig-remediations/Scripts/WN11-CC-000315/WN11-CC-000315.ps1)
+| WN11-CC-000180           | 🔴 CAT I  | Autoplay Disabled for Non-Volume Devices. | <img width="220" alt="Passed_WN11-CC-000180" src="https://github.com/user-attachments/assets/a4860f10-c543-472f-92ab-8f89e48f7138" /> | [View Remediation](https://github.com/lerenah/stig-remediations/Scripts/WN11-CC-000180/WN11-CC-000180.ps1)
 
 ### What this demonstrates
 - Safe registry remediation with type validation and pre-checks
